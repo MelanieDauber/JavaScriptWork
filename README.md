@@ -1,2 +1,2 @@
 # JavaScriptWork
-Beginning work with JavaScript 
+Beginning work with JavaScript and CSS.
